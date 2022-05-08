@@ -10,7 +10,7 @@ function preload(){
   green_balloonImage = loadImage("green_balloon0.png");
   pink_balloonImage = loadImage("pink_balloon0.png");
   blue_balloonImage = loadImage("blue_balloon0.png");
-  red_balloonImage = loadImage("red_balloon0");
+  red_balloonImage = loadImage("red_balloon0.png");
 }
 
 
